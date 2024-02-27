@@ -1,0 +1,93 @@
+.top-container{
+    background-color: rgb(220, 240, 238) ;
+    position: relative;
+    padding-top: 100px;
+   
+}
+body{
+    text-align: center;
+    color: #3ca6a6;
+}
+.text{text-decoration: underline;}
+
+.image{
+    height: 200px;
+    width: 350px;
+    
+}
+h1{
+font-family: Dancing Script , sans-serif;
+font-size: 90px;
+font-weight: bold;
+}
+h2{
+    font-family: Dancing Script , sans-serif;
+
+}
+.cloud{
+    height: 10px;
+position:absolute;}
+.image1{
+    height:90px;
+    border-radius: 50%;
+}
+.hello{
+   font-size: 40px; font-family:monospace
+}
+.intro {
+    width: 30%;
+    margin: auto;}
+p{
+    line-height: 2;
+}
+
+    hr {
+        border: dotted #3ca6a6 6px;
+        border-bottom: none;
+        width: 4%;
+        margin: 100px auto;
+    }
+    .lol{
+        font-size: 40px; font-family:monospace ;
+
+    }
+    .grid{
+        display: grid;
+        grid-template-columns: 0.5fr 1fr;
+        grid-template-rows: 0.5fr 1fr;
+        width: 50%;
+        margin: 100px auto 0 auto;
+        text-align: center;
+        row-gap: 2rem;
+
+    }
+    .btn {
+        background: #11cdd4;    
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e); 
+        border-radius: 8px;
+        font-family: "Montserrat", sans-serif;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+    }
+    .touch{
+        font-size: 40px; font-family:monospace;
+        padding-bottom: 40px;
+    }
+    .bottom-container{
+        background-color: #addbdc;
+        padding: 50px 0 20px;
+    }
+    a {
+        color: #11999e;
+        font-family: "Montserrat", sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+    }
+    .copyright {
+        color: #eaf6f6;
+        font-size: 0.75rem;
+        padding: 20px 0;
+    }
+    
